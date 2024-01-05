@@ -12,7 +12,7 @@ def unzip_password_protected_zip(zip_file_path, output_path, password):
 # Example usage
 zip_file_path = 'main.zip'
 output_path = ''
-password = os.environ["password"]
+password = os.environ["PASSWORD"]
 #
 unzip_password_protected_zip(zip_file_path, output_path, password)
 
