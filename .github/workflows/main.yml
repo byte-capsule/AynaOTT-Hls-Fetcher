@@ -28,7 +28,7 @@ jobs:
           API_PASTE: ${{ secrets.API_PASTE }}
           H_KEY: ${{ secrets.H_KEY }}
           PROXY: ${{ secrets.PROXY }}
-          password: ${{ secrets.PASSWORD }}
+          PASSWORD: ${{ secrets.PASSWORD }}
 
 
         run: python decrypt.py
