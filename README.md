@@ -29,7 +29,7 @@
 </p>
 
 <h1 align="center">
- <a href="www.aynaott.com"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/aynaott_logo.png"></a>
+ <a href="www.aynaott.com"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/aynaott_banner.jpeg"></a>
 </h1>
 
 # 📒Introdicton 
