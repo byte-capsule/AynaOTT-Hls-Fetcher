@@ -33,7 +33,7 @@
 </h1>
 
 # 📒Introdicton 
-* [AynaoOTT](https://play.google.com/store/apps/details?id=com.banglalink.toffee)is the number 1 paid IPTV app in Bangladesh.The script can get the channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
+* [AynaoOTT](https://play.google.com/store/apps/details?id=com.banglalink.toffee) is the number 1 paid IPTV app in Bangladesh.The script can get the channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
 
 
 # 💥Key Features
@@ -64,7 +64,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 
 
 <h1 align="center">
- <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/images/json_file.jpg"></a>
+ <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links.Json?token=GHSAT0AAAAAACIGXJTZNCFBIKMA5RTUUUG4ZMZG7XQ"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/json_file.jpg"></a>
 </h1>
 
 # 🎬How To Play
@@ -107,7 +107,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 
 
 # 📝Note
-* The following code is for educational purposes only. It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the portal owners, please let me  and I will delete it.
+* The following code is for educational purposes only. It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me  and I will delete it.
 * Please give me proper credit if you share this content. Otherwise, I will take it down.
 * The codes of the repo are encrypted to ensure security. Please refrain from trying to run or deploy them 
 * Due to geo-restriction, the IPTV content is only available in Bangladesh.
