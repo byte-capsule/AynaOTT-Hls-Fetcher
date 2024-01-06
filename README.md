@@ -92,13 +92,13 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
  <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/1.jpg"></a>
 </h1>
 <h1 align="center">
+ <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/2.jpg"></a>
+</h1>
+<h1 align="center">
  <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/3.jpg"></a>
 </h1>
 <h1 align="center">
- <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u"><img src="https://github.com/Jeshan-akand/AynaOTT-Hls-Fetcher//blob/main/images/3.jpg"></a>
-</h1>
-<h1 align="center">
- <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u"><img src="https://github.com/Jeshan-akand/AynaOTT-Hls-Fetcher//blob/main/images/4.jpg"></a>
+ <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/4.jpg"></a>
 </h1>
 
 
