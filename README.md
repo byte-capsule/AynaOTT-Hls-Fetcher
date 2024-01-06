@@ -33,7 +33,7 @@
 </h1>
 
 # 📒Introdicton 
-* [Toffee](https://play.google.com/store/apps/details?id=com.banglalink.toffee) Live is the number 1 paid IPTV app in Bangladesh.
+* [AynaoOTT](https://play.google.com/store/apps/details?id=com.banglalink.toffee)is the number 1 paid IPTV app in Bangladesh.The script can get the channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
 
 
 # 💥Key Features
