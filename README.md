@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/images/aynaott_logo.png" alt="⭐ AynaoOTT ⭐" width="200"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/aynaott_logo.png" alt="⭐ AynaoOTT ⭐" width="200"></a>
   <br>
   ⭐ AynaoOTT ⭐
   <br>
@@ -29,7 +29,7 @@
 </p>
 
 <h1 align="center">
- <a href="https://play.google.com/store/apps/details?id=com.aynaott.apps"><img src="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/images/aynaott_banner.jpeg"></a>
+ <a href="www.aynaott.com"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/aynaott_logo.png"></a>
 </h1>
 
 # 📒Introdicton 
