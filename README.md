@@ -11,7 +11,7 @@
   <br>
 </h1>
 
-<h2 align="center">A Script to trigger the GitHub Actions every day to update the AynaoOTT Channels HLS Link</h2>
+<h2 align="center">A script designed to automate GitHub Actions, scheduling daily code runs to keep the AynaoOTT Channels HLS Link up-to-date</h2>
 
 <p align="center">
   <a href="https://www.python.org/">
