@@ -32,22 +32,22 @@
  <a href="www.aynaott.com"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/aynaott_banner.jpeg"></a>
 </h1>
 
-# 📒Introdicton 
+# 📕Introdicton 
 * [AynaoOTT](https://play.google.com/store/apps/details?id=com.banglalink.toffee) is the number 1 paid IPTV app in Bangladesh.The script can get the channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
 
 
-# 💥Key Features
+# 🛡️Key Features
 
 * All The Channel HLS Links and PlayList Are Updated Every 8 hours 
 * Premium Channels Are Also Working
-* World wide working 
+* World Wide working 
 * No Needs Any Subscription 
 * In JSON Format
 * You Can Easily Use This on a Website or in an App for Restreaming TV Channels 
 
 
 
-# 🕹️How To Use
+# 👨‍💻How To Use
 **For Fetching HLS Links**
 * 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links.Json)**
 * Use Get Request
@@ -68,7 +68,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
  <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links.Json?token=GHSAT0AAAAAACIGXJTZNCFBIKMA5RTUUUG4ZMZG7XQ"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/json_file.jpg"></a>
 </h1>
 
-# 🎬How To Play
+# 🎥How To Play
 **📱Android**
 * Use Network Stream Player [Download App](https://play.google.com/store/apps/details?id=com.genuine.leone)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/NS_Player_AynaOTT.m3u)
@@ -107,7 +107,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Byte+Capsule)](https://git.io/typing-svg)
 
 
-# 📝Note
+# 💌Note
 * The following code is for educational purposes only. It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me  and I will delete it.
 * Please give me proper credit if you share this content. Otherwise, I will take it down.
 * The codes of the repo are encrypted to ensure security. Please refrain from trying to run or deploy them 
