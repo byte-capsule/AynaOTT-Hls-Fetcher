@@ -70,17 +70,17 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 
 # 🎥How To Play
 **📱Android**
-* Use Network Stream Player [Download App](https://play.google.com/store/apps/details?id=com.genuine.leone)  Add This PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/NS_Player_AynaOTT.m3u)
+* Use Network Stream Player [Download App](https://play.google.com/store/apps/details?id=com.genuine.leone) & Add This PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/NS_Player_AynaOTT.m3u)
   
 * Universal PlayList works in Any IPTV Player App [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u)
-* Static PlayList works in Any IPTV Player App [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u)
+* Static PlayList works in Any IPTV Player App [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links_Static.Json)
 
 *  Enjoy 😊
 
 **🖥️ Android TV**
 
 * Universal PlayList works in Any IPTV Player [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u)
- *Static  PlayList works in Any IPTV Player [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u)
+*Static  PlayList works in Any IPTV Player [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links_Static.Json)
 *  Enjoy 😊
 
 **📹 Other**
