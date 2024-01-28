@@ -88,6 +88,12 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 * Add This Universal PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u)
 *  Enjoy 😊
 
+**Some IPTV Players Names**
+* For Android: Televizo,NS Player IPTV Smarters Pro
+* For Android TV: Televizo,OTT Navigator, TiVimate
+* For iOS: GSE SMART IPTV,Movie Stream,Flex IPTV
+* For Windows: VLC for Windows,Kodi,IPTV Simple PVR,MPC-HC
+
 
 <h1 align="center">
  <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/1.jpg"></a>
