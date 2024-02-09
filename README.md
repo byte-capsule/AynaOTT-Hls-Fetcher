@@ -71,7 +71,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 
 # 🎥How To Play
 **📱Android**
-* Use Network Stream Player [Download App](https://play.google.com/store/apps/details?id=com.genuine.leone) & Add This PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/NS_Player_AynaOTT.m3u)
+* Use NS Player [Download App](https://play.google.com/store/apps/details?id=com.genuine.leone) & Add This PlayList [Playlist Link](https://byte-capsule-2x.onrender.com//api/aynaott/ns_player)
   
 
 * Static PlayList works in Any IPTV Player App [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Static_Playlist_AynaOTT.m3u) (Auto Reload)
