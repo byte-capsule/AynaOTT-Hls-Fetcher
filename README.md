@@ -50,14 +50,14 @@
 
 # 👨‍💻How To Use
 **For Fetching HLS Links**
-* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links.Json)**
+* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links_Static.Json)**
 * Use Get Request
 
 
 
 
 ```
-curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links.Json
+curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links_Static.Json
 
 ```
 
@@ -73,20 +73,20 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 **📱Android**
 * Use Network Stream Player [Download App](https://play.google.com/store/apps/details?id=com.genuine.leone) & Add This PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/NS_Player_AynaOTT.m3u)
   
-* Universal PlayList works in Any IPTV Player App [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u)
+
 * Static PlayList works in Any IPTV Player App [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Static_Playlist_AynaOTT.m3u) (Auto Reload)
 
 *  Enjoy 😊
 
 **🖥️ Android TV**
 
-* Universal PlayList works in Any IPTV Player [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u)
+
 * Static  PlayList works in Any IPTV Player [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Static_Playlist_AynaOTT.m3u) (Auto Reload)
 *  Enjoy 😊
 
 **📹 Other**
 * Use Any OTT Player [Download](https://www.google.com/search?q=ott+player+for+pc+and+ios&client=ms-android-xiaomi-terr1-rso2&sca_esv=596181589&sxsrf=AM9HkKnV10drltrN-Twr51eQaTzOzAP_pg%3A1704535658479&ei=aiaZZebrHIG8juMPwLuasAQ&oq=ott+player+for+pc+and+ios&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIhlvdHQgcGxheWVyIGZvciBwYyBhbmQgaW9zMgUQIRigATIFECEYoAEyBRAhGJ8FSKIzUKAIWKcucAJ4AZABAJgBlgOgAbARqgEJMC4zLjQuMS4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBhAAGBYYHuIDBBgAIEGIBgGQBgg&sclient=mobile-gws-wiz-serp)
-* Add This Universal PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u)
+* Add This Static PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Static_Playlist_AynaOTT.m3u)
 *  Enjoy 😊
 
 **🧩 Some IPTV Players Names**
