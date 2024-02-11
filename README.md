@@ -72,21 +72,25 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 # 🎥How To Play
 **📱Android**
 * Use NS Player [Download App](https://play.google.com/store/apps/details?id=com.genuine.leone) & Add This PlayList [Playlist Link](https://byte-capsule-2x.onrender.com/api/aynaott/ns_player.m3u)
+* 👆 Short Link : https://s.id/21HBe
   
 
-* Static PlayList works in Any IPTV Player App [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Static_Playlist_AynaOTT.m3u) (Auto Reload)
+* Others IPTV Player App [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Static_Playlist_AynaOTT.m3u) (Auto Reload)
+* 👆 Short Link : https://s.id/21HzA
 
 *  Enjoy 😊
 
 **🖥️ Android TV**
 
 
-* Static  PlayList works in Any IPTV Player [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Static_Playlist_AynaOTT.m3u) (Auto Reload)
+* Others IPTV Player App [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Static_Playlist_AynaOTT.m3u) (Auto Reload)
+*  👆 Short Link : https://s.id/21HzA
 *  Enjoy 😊
 
 **📹 Other**
 * Use Any OTT Player [Download](https://www.google.com/search?q=ott+player+for+pc+and+ios&client=ms-android-xiaomi-terr1-rso2&sca_esv=596181589&sxsrf=AM9HkKnV10drltrN-Twr51eQaTzOzAP_pg%3A1704535658479&ei=aiaZZebrHIG8juMPwLuasAQ&oq=ott+player+for+pc+and+ios&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIhlvdHQgcGxheWVyIGZvciBwYyBhbmQgaW9zMgUQIRigATIFECEYoAEyBRAhGJ8FSKIzUKAIWKcucAJ4AZABAJgBlgOgAbARqgEJMC4zLjQuMS4xuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICBhAAGBYYHuIDBBgAIEGIBgGQBgg&sclient=mobile-gws-wiz-serp)
 * Add This Static PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Static_Playlist_AynaOTT.m3u)
+*  👆 Short Link : https://s.id/21HzA
 *  Enjoy 😊
 
 **🧩 Some IPTV Players Names**
