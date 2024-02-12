@@ -51,7 +51,7 @@
 
 
 # 👨‍💻How To Use
-⚠️ AynaOTT has changed their security, so the links are no longer working ⚠️
+**⚠️ AynaOTT has changed their security, so the links are no longer working ⚠️**
 **For Fetching HLS Links**
 * 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links_Static.Json)**
 * Use Get Request
@@ -73,7 +73,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 </h1>
 
 # 🎥How To Play
-⚠️ AynaOTT has changed their security, so the links are no longer working ⚠️
+**⚠️ AynaOTT has changed their security, so the links are no longer working ⚠️**
 **📱Android**
 * Use NS Player [Download App](https://play.google.com/store/apps/details?id=com.genuine.leone) & Add This PlayList [Playlist Link](https://byte-capsule-2x.onrender.com/api/aynaott/ns_player.m3u)
 * 👆 Short Link : https://s.id/21HBe
