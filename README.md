@@ -33,7 +33,7 @@
  <a href="www.aynaott.com"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/aynaott_banner.jpeg"></a>
 </h1>
 
-<p style="color: red;">⚠️ AynaOTT has changed their security, so the links are no longer working ⚠️</p>
+
 
 # 📕Introdicton 
 * [AynaoOTT](https://play.google.com/store/apps/details?id=com.banglalink.toffee) is the number 1 paid IPTV app in Bangladesh.The script can get the channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
@@ -51,6 +51,7 @@
 
 
 # 👨‍💻How To Use
+<p style="color: red;">⚠️ AynaOTT has changed their security, so the links are no longer working ⚠️</p>
 **For Fetching HLS Links**
 * 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links_Static.Json)**
 * Use Get Request
@@ -72,6 +73,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 </h1>
 
 # 🎥How To Play
+<p style="color: red;">⚠️ AynaOTT has changed their security, so the links are no longer working ⚠️</p>
 **📱Android**
 * Use NS Player [Download App](https://play.google.com/store/apps/details?id=com.genuine.leone) & Add This PlayList [Playlist Link](https://byte-capsule-2x.onrender.com/api/aynaott/ns_player.m3u)
 * 👆 Short Link : https://s.id/21HBe
