@@ -33,6 +33,8 @@
  <a href="www.aynaott.com"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/aynaott_banner.jpeg"></a>
 </h1>
 
+<p style="color: red;">Aynat has changed their security, so the links are no longer working.</p>
+
 # 📕Introdicton 
 * [AynaoOTT](https://play.google.com/store/apps/details?id=com.banglalink.toffee) is the number 1 paid IPTV app in Bangladesh.The script can get the channel’s HLS M3U8 link by breaking through the website’s security, and then transform it into JSON and playlist formats.
 
