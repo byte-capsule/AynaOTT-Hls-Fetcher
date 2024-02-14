@@ -76,6 +76,7 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 **📱Android**
 * Use NS Player App [Download App](https://play.google.com/store/apps/details?id=com.genuine.leone) & Add This PlayList [Playlist Link](https://byte-capsule-2x.onrender.com/api/aynaott/ns_player.m3u)
 * 👆 Short Link : https://s.id/21HBe
+* Enjoy 😊
   
 
 
