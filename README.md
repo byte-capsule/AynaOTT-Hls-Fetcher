@@ -78,12 +78,10 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
 
 | IPTV Player | Playlist             | Status                                                                                                                |
 | ------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| NS Player |[Click Here](https://byte-capsule-2x.onrender.com/api/aynaott/ns_player.m3u)| ✅ |
-| NS Player |https://s.id/21HBe|✅ |
+| NS Player |[Click Here](https://byte-capsule-2x.onrender.com/api/aynaott/ns_player.m3u)|![](https://img.icons8.com/?size=100&id=19Qs7U6PcAie&format=png&color=000000)|
+| NS Player |https://s.id/21HBe| |
 | OTT Navigator |[Click Here](https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u)|✅|
 | OTT Navigator |https://s.id/21Or3|✅|
-
-
 
 <h1 align="center">
  <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/Universal_Player_AynaOTT.m3u"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/1.jpg"></a>
