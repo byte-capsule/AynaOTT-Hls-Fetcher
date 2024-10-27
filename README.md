@@ -72,25 +72,16 @@ curl -X GET https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/m
  <a href="https://raw.githubusercontent.com/byte-capsule/AynaOTT-Hls-Fetcher/main/AynaOTT_Hls_links.Json?token=GHSAT0AAAAAACIGXJTZNCFBIKMA5RTUUUG4ZMZG7XQ"><img src="https://github.com/byte-capsule/AynaOTT-Hls-Fetcher/blob/main/images/json_file.jpg"></a>
 </h1>
 
-# 🎥How To Play
-**📱Android**
-* Use NS Player App [Download App](https://play.google.com/store/apps/details?id=com.genuine.leone) & Add This PlayList [Playlist Link](https://byte-capsule-2x.onrender.com/api/aynaott/ns_player.m3u)
-* 👆 Short Link : https://s.id/21HBe
-* Enjoy 😊
-  
+# 🎬 Playlist Generator
 
+### 🔗 Active Playlists
 
-
-**🖥️ Android TV**
-
-
-* Use OTT Navigator App [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
-* Add This PlayList [Playlist Link](https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u)
-* 👆 Short Link : https://s.id/21Or3
-*  Enjoy 😊
-
-
-
+| IPTV Player | Playlist             | Status                                                                                                                |
+| ------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| NS Player |[Click Here](https://byte-capsule-2x.onrender.com/api/aynaott/ns_player.m3u)| ✅ |
+| NS Player |https://s.id/21HBe|✅ |
+| OTT Navigator |[Click Here](https://byte-capsule-2x.onrender.com//api/aynaott/ott_navi.m3u)|✅|
+| OTT Navigator |https://s.id/21Or3|✅|
 
 
 
