@@ -195,7 +195,7 @@ def home():
     table_html += """
             </table>
             <footer>
-                Made BY <a href="https://github.com/byte-capsule" target="_blank">BYTE Capsule</a>
+                ♥️ Made BY <a href="https://github.com/byte-capsule" target="_blank">BYTE Capsule</a>
             </footer>
         </body>
     </html>
