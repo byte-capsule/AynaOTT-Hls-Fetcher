@@ -2093,20 +2093,12 @@
       "logo": "https://cloudtv.akamaized.net/anyott/images/CMS_BD/f6021804-959e-4e8c-9045-b9fbbcd5ce82_180x180_505.jpg"
     },
     {
-      "id": 189,
+      "id": 190,
       "category_name": "AynaoOTT",
-      "name": "Zee Bangla",
+      "name": "Zee Bangla HD",
       "link": "http://plusbox.tv:8080/ZeeBanglaHD/index.fmp4.m3u8?token=5eefc3e6dee0073088a92c9b008ae96c8b7e2aee-9dd445632bcfee2e3be58eb73fc69480-1734591568-1734580768",
       "headers": null,
       "logo": "https://i.imgur.com/fLLse5Q.jpg"
-    },
-    {
-      "id": 190,
-      "category_name": "AynaoOTT",
-      "name": "PRIME FIGHT HD TV",
-      "link": "https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott5_sofast/313fc62f-0109-43fc-85ab-650abfaa9d12_0_HLS/manifest.m3u8?channel_name= primefighthdtv",
-      "headers": null,
-      "logo": "https://cloudtv.akamaized.net/anyott/images/CMS_BD/f0ac143c-793e-4589-9d17-1b56958dac39_180x180_PRIMEFIGHT.jpg"
     }
   ]
 }
